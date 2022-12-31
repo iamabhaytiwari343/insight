@@ -1,0 +1,12 @@
+.faculty{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    margin: 5px;
+    padding: 5px;
+    box-sizing: content-box;
+    border-radius: 10px;
+}

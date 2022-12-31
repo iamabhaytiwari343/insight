@@ -1,0 +1,18 @@
+.cards{
+    box-sizing: border-box;
+    display: flex;
+    margin: 5px;
+    padding: 5px;
+}
+.card{
+    
+    width: 25vw;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    align-items: center;
+    background-image: linear-gradient(#ff9a9e,#fad0c4);
+}
+.card-body a{
+    align-items: flex-end;
+}
