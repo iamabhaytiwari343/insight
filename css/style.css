@@ -1,3 +1,16 @@
+:root{
+    --primary : #00ABE4;
+    --secondary : #E9F1FA;
+}
+.header{
+    background-color: var(--secondary);
+}
+/* body{
+   background: linear-gradient(#2193b0,#6dd5ed); 
+} 
+body{
+    background: #00ABE4;
+} */
 .logo{
     display: flex;
     align-items: center;
@@ -75,9 +88,7 @@ footer{
     padding-top: 40px;
     color: #fff;
 }
-body{
-   background: linear-gradient(#2193b0,#6dd5ed); 
-}
+
 .fcontent{
     display: flex;
     align-items: center;
