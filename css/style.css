@@ -5,6 +5,9 @@
 .header{
     background-color: var(--secondary);
 }
+.link{
+    text-decoration: none;
+}
 
 /* body{
    background: linear-gradient(#2193b0,#6dd5ed); 
